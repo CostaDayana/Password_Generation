@@ -7,4 +7,4 @@
 
 
 
-![img](https://github.com/CostaDayana/imersao_react/blob/main/img/aluracord.PNG)
+![img](https://github.com/CostaDayana/Password_Generation/blob/main/img/aplica%C3%A7%C3%A3o.png)
