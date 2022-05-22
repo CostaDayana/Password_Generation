@@ -1,2 +1,10 @@
 # Password_Generation
-Aplicação feita em python com interface gráfica que gera senhas aleatorias para o usuario e salva em um arquivo .tct
+## Aplicação feita em python com interface gráfica que gera senhas aleatorias para o usuario e salva em um arquivo .tct
+
+
+## Nesse Projeto do gerador de senhas
+- Ultilizamos a Biblioteca PySimpleGui e Numpy.
+
+
+
+![img](https://github.com/CostaDayana/imersao_react/blob/main/img/aluracord.PNG)
